@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![codewars](https://www.codewars.com/users/yankvasya/badges/large)](https://www.codewars.com/users/Stu88S)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yankvasya&layout=compact&theme=tokyonight)](https://github.com/Stu88S?tab=repositories)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@yankvasya&theme=dark&width=50&layout=compact)](https://wakatime.com/@Stu88S)
