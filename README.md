@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 [![codewars](https://www.codewars.com/users/Stu88S/badges/large)](https://www.codewars.com/users/Stu88S)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stu88S&layout=compact&theme=tokyonight)](https://github.com/Stu88S?tab=repositories)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Stu88S&theme=dark&width=50&layout=compact)](https://wakatime.com/@Stu88S)
+<!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Stu88S&theme=dark&width=50&layout=compact)](https://wakatime.com/@Stu88S)
+-->
