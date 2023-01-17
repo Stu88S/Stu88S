@@ -1,6 +1,6 @@
 ### Welcome to my GitHub profile! 👋
 
-I am a junior frontend developer who has recently completed "The Complete JavaScript Course 2023: From Zero to Expert!" on Udemy, taught by Jonas Schmedtmann. I am currently continuing my journey and skills development using other Udemy courses, Codewars and Leetcode.
+I am a junior frontend developer who has recently completed several courses on Udemy, taught by Jonas Schmedtmann. Currently continuing my journey and skills development using Udemy, Codewars and Leetcode.
 
 As a junior developer, I am excited to work on small-scale projects and contribute to larger ones under the guidance of more experienced developers. I am also eager to learn about new technologies and frameworks, such as React or Angular, as well as best practices for writing clean, efficient code.
 
