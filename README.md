@@ -15,5 +15,6 @@ Thanks for visiting!
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Stu88S)](https://github.com/Stu88S/github-readme)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stu88S&layout=compact&theme=tokyonight)](https://github.com/Stu88S?tab=repositories)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Stu88S&theme=dark&width=50&layout=compact)](https://wakatime.com/@Stu88S)
-<!---->
+
+<!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Stu88S&theme=dark&width=50&layout=compact)](https://wakatime.com/@Stu88S)
+-->
