@@ -11,6 +11,9 @@ Thanks for visiting!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stu88S&layout=compact&theme=tokyonight)](https://github.com/Stu88S?tab=repositories)
 
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/StubbS)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)]([https://www.linkedin.com/in/andreilarchenkov/])
+
 <!--[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Stu88S)](https://github.com/Stu88S/github-readme)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Stu88S&theme=dark&width=50&layout=compact)](https://wakatime.com/@Stu88S)
 -->
