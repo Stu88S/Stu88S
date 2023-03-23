@@ -1,10 +1,9 @@
 
-[![codewars](https://www.codewars.com/users/Stu88S/badges/small)](https://www.codewars.com/users/Stu88S)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/Stu88S/github-readme-stats)
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Stu88S&theme=dark)](https://github.com/Stu88S/github-readme)
+[![codewars](https://www.codewars.com/users/Stu88S/badges/large)](https://www.codewars.com/users/Stu88S)
 
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Stu88S&theme=dark)](https://github.com/Stu88S/github-readme)
 
 [![Telegram](https://s4.uupload.ir/files/telegram_q47u.png)](https://t.me/StubbS)
 [![LinkedIn](https://s4.uupload.ir/files/linkedin_amwn.png)](https://www.linkedin.com/in/andreilarchenkov/)
