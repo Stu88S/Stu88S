@@ -3,7 +3,7 @@
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Stu88S&theme=dark)](https://github.com/Stu88S/github-readme)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Stu88S/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/Stu88S/github-readme-stats)
 
 [![Telegram](https://s4.uupload.ir/files/telegram_q47u.png)](https://t.me/StubbS)
 [![LinkedIn](https://s4.uupload.ir/files/linkedin_amwn.png)](https://www.linkedin.com/in/andreilarchenkov/)
