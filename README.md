@@ -1,5 +1,7 @@
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=apprentice)](https://github.com/Stu88S/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stu88S&layout=compact&theme=apprentice)](https://github.com/Stu88S/github-readme-stats)
+
+[![Longest streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Stu88S&theme=apprentice)](https://github.com/Stu88S/github-readme-stats)
 
 [![codewars](https://www.codewars.com/users/Stu88S/badges/large)](https://www.codewars.com/users/Stu88S)
 
